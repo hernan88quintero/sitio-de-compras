@@ -1,0 +1,109 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+    
+
+    background-color: #046D8B #f7f972 #1693A5 #003E5F #004384 #96CFEA #2FB8AC #046D8B,#309292,#2FB8AC,#93A42A,#ECBE13,#046D8B,#309292,#2FB8AC;
+
+}
+
+
+
+body {
+
+    background-image: url(./img/realblue.jpg);
+
+    
+    /* background-color: #003E5F ; */
+}
+
+.firstArticle1 {
+    color: #ECBE13;
+    text-align: justify;
+}
+.secondArticle1 {
+    color: #ECBE13;
+    text-align: end;
+}
+.fcontentArticle1 {
+    color: aliceblue;
+    text-align: justify;
+}
+.scontentArticle1 {
+    color: aliceblue;
+    text-align: justify;
+}
+
+.carta {
+    justify-content: center;
+}
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    box-shadow: 0 15px 30px 0 #ECBE13, 0 5px 15px 0 #ECBE13;
+}
+
+#tarjeta {
+    text-align: justify;
+}
+
+.inicio {
+    color: aliceblue;
+}
+
+.form-label {
+    color: #ECBE13;
+}
+
+.form-check-label {
+    color: #ECBE13;
+}
+
+
+
+#imagenfondo {
+    
+    color: #f7f972;
+    
+    
+}
+
+h1 {
+
+    color: #ECBE13;
+}
+
+h2 {
+
+    color: #ECBE13;
+
+}
+
+.fraseOferta {
+    color: #f7f972bb;
+}
+
+p {
+    font-size: large;
+    color: rgb(240, 255, 243);
+}
+
+li {
+
+    text-align:left ;
+    list-style: none;
+    text-decoration: none;
+}
+
+h5 {
+    text-align:left;
+}
+
+footer {
+    color: #ECBE13;
+
+}
